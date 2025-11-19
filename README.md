@@ -93,9 +93,9 @@ return 0;
 
 ## OUTPUT
 
+
+
 <img width="930" height="655" alt="image" src="https://github.com/user-attachments/assets/3dd2c6c7-043e-4cfe-b556-ea4a55e18c05" />
-
-
 ## RESULT
 
 The program is executed successfully
